@@ -1,0 +1,3 @@
+Me and Mary worked on the final project together, Our main struggle with the code was getting the welcome screen to come first because we initally 
+had it coded so it came up after quitting the temrinal.
+We have since fixed the code so that it runs first and then the operations are chosen from that point on by the user. 
